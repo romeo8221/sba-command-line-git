@@ -54,11 +54,12 @@
 7. From your current location in the file system, Navigate to `folder2`using a single command
 8. Add a file named `file2.txt` in `folder2`
 9. Use text commands to add the following text to `file2.txt`: `"grapes\ngrapes\napples\noranges\nlimes\nlimes\nlemons\nlemons\ngrapes\npears\npears\nberries"` Hint: you will need to use -e along with your command to ensure each item is on separate line (ex. `command -e "text here"`)
-10. Run the command: `exit` in the Shell
+10. Run the command: `exit` in the console
 11. Click the `Shell` tab. Located next to the `Console` tab in your repl
 12. Run the command `cat ~/.bash_history > my-history.txt`
-13. Use the "Invite" button in the top right of the replit.com window to generate a sharable link (as showin in [video](https://www.youtube.com/watch?v=ZAC0TQEU5gI) linked here and above)
-14. Take a screenshot of the Console showing the commands you used to complete the assignment
-15. Submit your link to the Canvas submission page for this session
-16. Submit your screenshot to the Canvas submission page for this session
+13. Check that `my-history.txt` contains your complete command history
+14. Use the "Invite" button in the top right of the replit.com window to generate a sharable link (as showin in [video](https://www.youtube.com/watch?v=ZAC0TQEU5gI) linked here and above)
+15. Take a screenshot of the Console showing the commands you used to complete the assignment
+16. Submit your link to the Canvas submission page for this session
+17. Submit your screenshot to the Canvas submission page for this session
 
