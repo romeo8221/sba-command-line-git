@@ -8,7 +8,7 @@
 
 1. Fork a copy of this repository to _your_ GitHub account. 
 2. Clone the _forked_ copy to your computer.
-3. Add an `index.html` file to the root directory of the repository.
+3. Add an `index.html` file to the root directory of the project.
 4. Open the index.html file in the nano text editor.
 5. Add the following code to your `index.html` file.
 
