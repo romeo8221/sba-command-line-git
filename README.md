@@ -58,8 +58,7 @@
 11. Click the `Shell` tab. Located next to the `Console` tab in your repl
 12. Run the command `cat ~/.bash_history > my-history.txt`
 13. Check that `my-history.txt` contains your complete command history
-14. Use the "Invite" button in the top right of the replit.com window to generate a sharable link (as showin in [video](https://www.youtube.com/watch?v=ZAC0TQEU5gI) linked here and above)
 15. Take a screenshot of the Console showing the commands you used to complete the assignment
-16. Submit your link to the Canvas submission page for this session
-17. Submit your screenshot to the Canvas submission page for this session
+16. Submit your screenshot to the Canvas submission page for this session
+17. Submit your replit project using the submit button on replit
 
