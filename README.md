@@ -48,16 +48,17 @@
 1. Create a folder named `folder1`
 2. Navigate to `folder1`
 3. Add a file named `file1.txt` to `folder1`
-4. Use text commands to add the following text to `file1.txt`: `"grapes\napples\noranges\nlimes\nlemons\napples\ngrapes\npears\nberries\nlimes"` There should be one item per line in the file. Hint: You will need to use -e along with your command to ensure each item is on separate line (ex. `command -e "text here"`)
-5. From your current location in the file system, create a folder named `folder2` that is a **_sibling_** of `folder1` using a single command
-6. From your current location in the file system, Navigate to `folder2`using a single command
-7. Add a file named `file2.txt` in `folder2`
-8. Use text commands to add the following text to `file2.txt`: `"grapes\ngrapes\napples\noranges\nlimes\nlimes\nlemons\nlemons\ngrapes\npears\npears\nberries"` Hint: you will need to use -e along with your command to ensure each item is on separate line (ex. `command -e "text here"`)
-9. Run the command: `exit` in the Shell
-10. Click the `Shell` tab. Located next to the `Console` tab in your repl
-11. Run the command `cat ~/.bash_history > my-history.txt`
-12. Use the "Invite" button in the top right of the replit.com window to generate a sharable link (as showin in [video](https://www.youtube.com/watch?v=ZAC0TQEU5gI) linked here and above)
-13. Take a screenshot of the Console showing the commands you used to complete the assignment
-14. Submit your link to the Canvas submission page for this session
-15. Submit your screenshot to the Canvas submission page for this session
+4. Use text commands to add the following text to `file1.txt`: `"grapes\napples\noranges\nlimes\nlemons\napples\ngrapes\npears\nberries\nlimes"` <strong>There should be one item per line in the file</strong>. Hint: You will need to use -e along with your command to ensure each item is on separate line (ex. `command -e "text here"`)
+5. Check the contents of `file1.txt`
+6. From your current location in the file system, create a folder named `folder2` that is a **_sibling_** of `folder1` using a single command
+7. From your current location in the file system, Navigate to `folder2`using a single command
+8. Add a file named `file2.txt` in `folder2`
+9. Use text commands to add the following text to `file2.txt`: `"grapes\ngrapes\napples\noranges\nlimes\nlimes\nlemons\nlemons\ngrapes\npears\npears\nberries"` Hint: you will need to use -e along with your command to ensure each item is on separate line (ex. `command -e "text here"`)
+10. Run the command: `exit` in the Shell
+11. Click the `Shell` tab. Located next to the `Console` tab in your repl
+12. Run the command `cat ~/.bash_history > my-history.txt`
+13. Use the "Invite" button in the top right of the replit.com window to generate a sharable link (as showin in [video](https://www.youtube.com/watch?v=ZAC0TQEU5gI) linked here and above)
+14. Take a screenshot of the Console showing the commands you used to complete the assignment
+15. Submit your link to the Canvas submission page for this session
+16. Submit your screenshot to the Canvas submission page for this session
 
