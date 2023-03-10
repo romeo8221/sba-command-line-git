@@ -40,7 +40,7 @@
 1.  You will need to create a replit.com account to complete this portion. This video provides directions: https://www.youtube.com/watch?v=ZAC0TQEU5gI
 2. Start a new "Bash" repl
 3. Click on the "Console" tab to run commands in a way similar to Git Bash or Terminal
-4. Format your commands with single spaces between commands, options, and arguments. Ex.  `cp file1.txt file2.txt my_directory` `ls -a`
+4. Format your commands with single spaces between commands, options, and arguments. For example,  `cp file1.txt file2.txt my_directory` `ls -a`
 
 ### Use the appropriate commands complete the steps listed below. 
 
