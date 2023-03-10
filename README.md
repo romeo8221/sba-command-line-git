@@ -53,7 +53,7 @@
 6. From your current location in the file system, create a folder named `folder2` that is a **_sibling_** of `folder1` using a single command
 7. From your current location in the file system, Navigate to `folder2`using a single command
 8. Add a file named `file2.txt` in `folder2`
-9. Use text commands to add the following text to `file2.txt`: `"grapes\ngrapes\napples\noranges\nlimes\nlimes\nlemons\nlemons\ngrapes\npears\npears\nberries"` Hint: you will need to use -e along with your command to ensure each item is on separate line (ex. `command -e "text here"`)
+9. Use text commands to add the following text to `file2.txt`: `"grapes\ngrapes\napples\noranges\nlimes\nlimes\nlemons\nlemons\ngrapes\npears\npears\nberries"` <strong>There should be one item per line in the file</strong>. Hint: you will need to use -e along with your command to ensure each item is on separate line (ex. `command -e "text here"`)
 10. Run the command: `exit` in the console
 11. Click the `Shell` tab. Located next to the `Console` tab in your repl
 12. Run the command `cat ~/.bash_history > my-history.txt`
