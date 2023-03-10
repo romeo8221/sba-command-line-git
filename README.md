@@ -41,6 +41,7 @@
 2. Start a new "Bash" repl
 3. Click on the "Console" tab to run commands in a way similar to Git Bash or Terminal
 4. Format your commands with single spaces between commands, options, and arguments. For example,  `cp file1.txt file2.txt my_directory` `ls -a`
+5. You MUST use command line commands to complete all steps otherwise we will not be able to give you credit for all steps.
 
 ### Use the appropriate commands complete the steps listed below. 
 
